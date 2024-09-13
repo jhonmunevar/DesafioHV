@@ -1,0 +1,227 @@
+[
+    {
+        "archivo": "1724342728_CV8.pdf",
+        "resultado": {
+            "nombre": {
+                "valor": "Law",
+                "score": 1.0
+            },
+            "email": {
+                "valor": "drsantoshkakade@gmail.com",
+                "score": 1.0
+            },
+            "telefono": {
+                "valor": "09850671175 1495",
+                "score": 1.0
+            },
+            "experiencia": {
+                "valor": "20",
+                "score": 1.0
+            },
+            "formacion_ia": {
+                "valor": "No",
+                "score": 0.0
+            }
+        }
+    },
+    {
+        "archivo": "1724342738_CV9.pdf",
+        "resultado": {
+            "nombre": {
+                "valor": "W. Fullerton Pkwy",
+                "score": 1.0
+            },
+            "email": {
+                "valor": "loren@shevitz.org",
+                "score": 1.0
+            },
+            "telefono": {
+                "valor": "773-665-1234",
+                "score": 1.0
+            },
+            "experiencia": {
+                "valor": null,
+                "score": 0.0
+            },
+            "formacion_ia": {
+                "valor": "No",
+                "score": 0.0
+            }
+        }
+    },
+    {
+        "archivo": "1724342683_CV4.pdf",
+        "resultado": {
+            "nombre": {
+                "valor": "Jawa Timur\nDyah",
+                "score": 1.0
+            },
+            "email": {
+                "valor": "dyahhediyati@gmail.com",
+                "score": 1.0
+            },
+            "telefono": {
+                "valor": "+62 85287404232",
+                "score": 1.0
+            },
+            "experiencia": {
+                "valor": null,
+                "score": 0.0
+            },
+            "formacion_ia": {
+                "valor": "No",
+                "score": 0.0
+            }
+        }
+    },
+    {
+        "archivo": "1724342661_CV2.pdf",
+        "resultado": {
+            "nombre": {
+                "valor": "POWELL",
+                "score": 1.0
+            },
+            "email": {
+                "valor": "hello@reallygreatsite.com",
+                "score": 1.0
+            },
+            "telefono": {
+                "valor": "+123-456-7890",
+                "score": 1.0
+            },
+            "experiencia": {
+                "valor": "2",
+                "score": 1.0
+            },
+            "formacion_ia": {
+                "valor": "No",
+                "score": 0.0
+            }
+        }
+    },
+    {
+        "archivo": "1724342714_CV7.pdf",
+        "resultado": {
+            "nombre": {
+                "valor": "Cahyo Dwiputra",
+                "score": 1.0
+            },
+            "email": {
+                "valor": "ringgicahyo@gmail.com",
+                "score": 1.0
+            },
+            "telefono": {
+                "valor": "085157115062",
+                "score": 1.0
+            },
+            "experiencia": {
+                "valor": null,
+                "score": 0.0
+            },
+            "formacion_ia": {
+                "valor": "No",
+                "score": 0.0
+            }
+        }
+    },
+    {
+        "archivo": "1724342646_CV1.pdf",
+        "resultado": {
+            "nombre": {
+                "valor": "Jawa Timur",
+                "score": 1.0
+            },
+            "email": {
+                "valor": "me@junae.id",
+                "score": 1.0
+            },
+            "telefono": {
+                "valor": "+6282331472499",
+                "score": 1.0
+            },
+            "experiencia": {
+                "valor": "6",
+                "score": 1.0
+            },
+            "formacion_ia": {
+                "valor": "Si",
+                "score": 1.0
+            }
+        }
+    },
+    {
+        "archivo": "1724342673_CV3.pdf",
+        "resultado": {
+            "nombre": {
+                "valor": "Michael Smith",
+                "score": 1.0
+            },
+            "email": {
+                "valor": null,
+                "score": 0.0
+            },
+            "telefono": {
+                "valor": null,
+                "score": 0.0
+            },
+            "experiencia": {
+                "valor": "1",
+                "score": 1.0
+            },
+            "formacion_ia": {
+                "valor": "No",
+                "score": 0.0
+            }
+        }
+    },
+    {
+        "archivo": "1724342694_CV5.pdf",
+        "resultado": {
+            "nombre": {
+                "valor": "KENISAH",
+                "score": 1.0
+            },
+            "email": {
+                "valor": "dhikayudano@gmail.com",
+                "score": 1.0
+            },
+            "telefono": {
+                "valor": "+62 8577 7124 773",
+                "score": 1.0
+            },
+            "experiencia": {
+                "valor": null,
+                "score": 0.0
+            },
+            "formacion_ia": {
+                "valor": "No",
+                "score": 0.0
+            }
+        }
+    },
+    {
+        "archivo": "1724342704_CV6.pdf",
+        "resultado": {
+            "nombre": {
+                "valor": "Alice Clark",
+                "score": 1.0
+            },
+            "email": {
+                "valor": null,
+                "score": 0.0
+            },
+            "telefono": {
+                "valor": null,
+                "score": 0.0
+            },
+            "experiencia": {
+                "valor": null,
+                "score": 0.0
+            },
+            "formacion_ia": {
+                "valor": "Si",
+                "score": 1.0
+            }
+        }
+    }
+]
